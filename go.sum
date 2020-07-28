@@ -112,6 +112,8 @@ zgo.at/json v0.0.0-20200627042140-d5025253667f h1:o4XL0oDtAzxN+mkVCti8MYz5nLNfbr
 zgo.at/json v0.0.0-20200627042140-d5025253667f/go.mod h1:DUuNIRpNC7/cup+Gy0qhwQEjjlLFXXRZ04VnVv9bf3E=
 zgo.at/tz v0.0.0-20200520034804-aeba38d94d93 h1:9jisiomiXkQ2K2yTJQOO5fL+Txg+rKxytHj8G8kRl2M=
 zgo.at/tz v0.0.0-20200520034804-aeba38d94d93/go.mod h1:A/XeaYjeMGoXptRB3EcR80tgir37tJnzCb6itDaHPxo=
+zgo.at/zcache v0.0.0-20200730203833-194444fbbca6 h1:CXZHN9Uy/94/UxTKJuHw1s+lFw2m0/dO11C/FZctIbk=
+zgo.at/zcache v0.0.0-20200730203833-194444fbbca6/go.mod h1:xWQo2ha/bamTmx8CbfrZl9Nf8AoT5uNh2hWfbQi8TiE=
 zgo.at/zcache v0.0.0-20200828020008-df91dc43c1c8 h1:G10IpV/r+ZtTnjA82MxC3SRBgxYoOOOmb0HpvsHYGr8=
 zgo.at/zcache v0.0.0-20200828020008-df91dc43c1c8/go.mod h1:xWQo2ha/bamTmx8CbfrZl9Nf8AoT5uNh2hWfbQi8TiE=
 zgo.at/zdb v0.0.0-20200905040742-a9c529b587d5 h1:Y5zNioC/Vv/sZNpkJjw0RdZtvvH5oq/p99dO7Hnt4Us=
@@ -120,7 +122,6 @@ zgo.at/zhttp v0.0.0-20200905040156-067b61c76183 h1:8lTfiJeJ0bWGNQt1L2X3KzVDTf4dk
 zgo.at/zhttp v0.0.0-20200905040156-067b61c76183/go.mod h1:X94a4TYkyi27KCFcedmE/eNQqSk6Hq46Zoyqx+GGmNM=
 zgo.at/zli v0.0.0-20200727160635-d9fa18baab0f h1:OZsv7mHtC8VJkC2ZP5GZW9F5RwWSc/a1A3CvB1FWfTg=
 zgo.at/zli v0.0.0-20200727160635-d9fa18baab0f/go.mod h1:iCNHeIhEG9nQZsmEvf1BDpnQXvbYbUDvokRSwB434M8=
-zgo.at/zlog v0.0.0-20200404052423-adffcc8acd57 h1:sIuh9IpccNlzMsmAvF7EPT87/Ab2XdUJHizsMxbQgM4=
 zgo.at/zlog v0.0.0-20200404052423-adffcc8acd57/go.mod h1:YkLAQZjLsp1RqWHn8SJokHzXyYU+6FZjM4GNY64IKME=
 zgo.at/zlog v0.0.0-20200519105857-4dc5e4ffe04c h1:PQksY26D9QgCNbOvMmortUzbStTYwfLZHBzHlDDLa6c=
 zgo.at/zlog v0.0.0-20200519105857-4dc5e4ffe04c/go.mod h1:YkLAQZjLsp1RqWHn8SJokHzXyYU+6FZjM4GNY64IKME=
